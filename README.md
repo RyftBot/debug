@@ -1,3 +1,4 @@
+## This is not the original package, this is a modified version.
 # debug
 [![Build Status](https://travis-ci.org/debug-js/debug.svg?branch=master)](https://travis-ci.org/debug-js/debug)  [![Coverage Status](https://coveralls.io/repos/github/debug-js/debug/badge.svg?branch=master)](https://coveralls.io/github/debug-js/debug?branch=master)  [![Slack](https://visionmedia-community-slackin.now.sh/badge.svg)](https://visionmedia-community-slackin.now.sh/) [![OpenCollective](https://opencollective.com/debug/backers/badge.svg)](#backers)
 [![OpenCollective](https://opencollective.com/debug/sponsors/badge.svg)](#sponsors)
