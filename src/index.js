@@ -3,8 +3,7 @@
  * treat as a browser.
  */
 
-if (typeof process === 'undefined' || process.type === 'renderer' || process.browser === true || process.__nwjs) {
+if (typeof process === 'undefined' || process.type === 'renderer' || process.browser === true || process.__nwjs)
 	module.exports = require('./browser.js');
-} else {
+else
 	module.exports = require('./node.js');
-}
